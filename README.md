@@ -16,6 +16,7 @@ Save your work in the codespace. You may download a notebook as a personal backu
 ## Repository folders
 
 - `labs/`: student lab notebooks
+- `helpers/`: Python helper modules that the lab notebooks load; you do not need to open or edit them
 - `data/`: synthetic datasets used by the notebooks
 - `docs/`: supporting course documentation
 - `assets/`: supporting images and other files
