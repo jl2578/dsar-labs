@@ -10,7 +10,12 @@
       "extensions": [
         "ms-python.python",
         "ms-toolsai.jupyter"
-      ]
+      ],
+      "settings": {
+        "github.copilot.enable": { "*": false },
+        "github.copilot.nextEditSuggestions.enabled": false,
+        "editor.inlineSuggest.enabled": false
+      }
     }
   }
 }
