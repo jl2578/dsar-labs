@@ -23,6 +23,13 @@ Save your work in the codespace. You may download a notebook as a personal backu
 
 The four folders under `data/` contain distinct synthetic samples for different groups of labs. Participant IDs are meaningful only within a dataset group. Do not link records across groups.
 
+## Labs 8 and 9
+
+- [Lab 8](labs/Lab8.ipynb) — t-tests and reward-related brain activation
+- [Lab 9](labs/Lab9.ipynb) — ANOVA and planned comparisons for stop-signal brain activation
+
+Both labs use the [same synthetic dataset](data/labs_08_09/README.md). Open the assigned notebook in Codespaces and complete its Canvas assessment.
+
 ## Troubleshooting
 
 If a notebook cannot find a data file, confirm that you opened the notebook from `labs/` and that the repository folder structure has not changed. Then restart the kernel and run the notebook from the first cell.
